@@ -1,0 +1,489 @@
+import React from 'react'
+import Link from 'next/link'
+
+
+const Plans = () => {
+  return (
+    <section className="py-10 bg-white sm:py-16 lg:py-24">
+    <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
+        <div className="max-w-xl mx-auto text-center">
+            <h2 className="text-4xl font-bold text-black lg:text-5xl sm:text-5xl">⭐⭐⭐⭐⭐</h2>
+            <p className="mt-4 text-lg leading-relaxed text-gray-600">Check out our budget-friendly social media management packages, carefully crafted to be the most affordable options available.</p>
+        </div>
+
+        
+        <div className="hidden mt-16 lg:block">
+            <table className="w-full">
+                <thead>
+                    <tr>
+                        <th className="py-8 pr-4"></th>
+
+                        <th className="px-4 py-8 text-center">
+                            <span className="text-base font-medium text-blue-600"> Basic</span>
+                            <p className="mt-6 text-6xl font-bold">$50</p>
+                            <p className="mt-2 text-base font-normal text-gray-500">Per month</p>
+                        </th>
+
+                        <th className="px-4 py-8 text-center">
+                            <span className="text-base font-medium text-blue-600"> Pro </span>
+                            <p className="mt-6 text-6xl font-bold">$100</p>
+                            <p className="mt-2 text-base font-normal text-gray-500">Per month</p>
+                        </th>
+
+                        <th className="px-4 py-8 text-center bg-gray-900 rounded-t-xl">
+                            <span className="px-4 py-2 text-base font-medium text-white bg-blue-600 rounded-full"> Popular </span>
+                            <p className="mt-6 text-6xl font-bold text-white">$150</p>
+                            <p className="mt-2 text-base font-normal text-gray-200">Per month</p>
+                        </th>
+
+                        <th className="px-4 py-8 text-center">
+                            <span className="text-base font-medium text-blue-600"> Ultimate</span>
+                            <p className="mt-6 text-6xl font-bold">$350</p>
+                            <p className="mt-2 text-base font-normal text-gray-500">Per month</p>
+                        </th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <tr>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Game Changer Post Per Week</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">01 on 1 Platform</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">03 on 2 Platforms</td>
+
+                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">05 on 3 Platforms</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">07 on 4 Platforms</td>
+                    </tr>
+
+                    <tr>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Exclusive content </td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">🗸</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">🗸</td>
+
+                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">🗸</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">🗸</td>
+                    </tr>
+
+                    <tr>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Content strategy designed</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">🗸</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">🗸</td>
+
+                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">🗸</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">🗸</td>
+                    </tr>
+
+                    <tr>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Unique Graphics</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">🗸</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">
+                        🗸
+                        </td>
+
+                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">
+                        🗸
+                        </td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">
+                        🗸
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Dedicated account manager</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
+
+                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">
+                        🗸
+                        </td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">
+                        🗸
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Real time analytics</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
+
+                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">
+                        🗸
+                        </td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">
+                        🗸
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Preview posts one week in advance</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
+
+                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">
+                        🗸
+                        </td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">
+                        🗸
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">1 strategy call per month included</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
+
+                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">
+                        🗸
+                        </td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">
+                        🗸
+                        </td>
+                    </tr>
+
+                    <tr>
+                    <td className="py-4 pr-4 font-medium border-b border-gray-200">Priority customer support</td>
+
+                    <td className="px-4 py-4 text-center border-b border-gray-200">🗸</td>
+
+                    <td className="px-4 py-4 text-center border-b border-gray-200">🗸</td>
+
+                    <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">
+                    🗸
+                    </td>
+
+                    <td className="px-4 py-4 text-center border-b border-gray-200">
+                    🗸
+                    </td>
+                </tr>
+
+                <tr>
+                    <td className="py-4 pr-4 font-medium border-b border-gray-200">1 tree planted for every purchase 🌳</td>
+
+                    <td className="px-4 py-4 text-center border-b border-gray-200">🗸</td>
+
+                    <td className="px-4 py-4 text-center border-b border-gray-200">🗸</td>
+
+                    <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">
+                    🗸
+                    </td>
+
+                    <td className="px-4 py-4 text-center border-b border-gray-200">
+                    🗸
+                    </td>
+                </tr>
+
+
+                    <tr>
+                        <td className="py-6 pr-4"></td>
+
+                        <td className="px-4 py-6 text-center">
+                            <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="inline-flex items-center font-semibold text-blue-600 hover:text-blue-700">
+                                Get Started 
+                                <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                                    <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                                </svg>
+                            </Link>
+                        </td>
+
+                        <td className="px-4 py-6 text-center">
+                            <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="inline-flex items-center font-semibold text-blue-600 hover:text-blue-700">
+                                Get Started 
+                                <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                                    <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                                </svg>
+                            </Link>
+                        </td>
+
+                        <td className="px-4 py-6 text-center text-white bg-yellow-500 rounded-b-xl">
+                            <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="inline-flex items-center font-semibold text-white">
+                                Get Started 
+                                <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                                    <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                                </svg>
+                            </Link>
+                        </td>
+
+                        <td className="px-4 py-6 text-center">
+                            <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="inline-flex items-center font-semibold text-blue-600 hover:text-blue-700">
+                                Get Started 
+                                <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                                    <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                                </svg>
+                            </Link>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+   
+    <div className="block mt-12 border-t border-b border-gray-200 divide-y divide-gray-200 lg:hidden">
+        <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+            <div className="px-2 py-2">
+                <span className="text-sm font-medium text-blue-600"> Basic </span>
+                <p className="mt-2 text-xl font-bold">$50</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+            </div>
+
+            <div className="px-2 py-2">
+                <span className="text-sm font-medium text-blue-600"> Pro </span>
+                <p className="mt-2 text-xl font-bold">$100</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+            </div>
+
+            <div className="px-2 py-2">
+                <span className="text-sm font-medium text-blue-600"> Popular </span>
+                <p className="mt-2 text-xl font-bold">$150</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+            </div>
+
+            <div className="px-2 py-2">
+                <span className="text-sm font-medium text-blue-600"> Ultimate </span>
+                <p className="mt-2 text-xl font-bold">$350</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+            </div>
+        </div>
+
+        <div className="px-2 py-4 sm:px-4">
+            <p className="font-semibold">Game Changer Post Per Week</p>
+        </div>
+
+        <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+            <div className="px-2 py-2">01 on 1 Platform</div>
+
+            <div className="px-2 py-2">03 on 2 Platforms</div>
+
+            <div className="px-2 py-2">05 on 3 Platforms</div>
+
+            <div className="px-2 py-2">07 on 4 Platforms</div>
+        </div>
+
+        <div className="px-2 py-4 sm:px-4">
+            <p className="font-semibold">Exclusive content </p>
+        </div>
+
+        <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+            <div className="px-2 py-2">🗸</div>
+
+            <div className="px-2 py-2">🗸</div>
+
+            <div className="px-2 py-2">🗸</div>
+
+            <div className="px-2 py-2">🗸</div>
+        </div>
+
+        <div className="px-2 py-4 sm:px-4">
+            <p className="font-semibold">Content strategy designed</p>
+        </div>
+
+        <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+            <div className="px-2 py-2">🗸</div>
+
+            <div className="px-2 py-2">🗸</div>
+
+            <div className="px-2 py-2">🗸</div>
+
+            <div className="px-2 py-2">🗸</div>
+        </div>
+
+        <div className="px-2 py-4 sm:px-4">
+            <p className="font-semibold">Unique Graphics</p>
+        </div>
+
+        <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+            <div className="px-2 py-2">🗸</div>
+
+            <div className="px-2 py-2">
+            🗸
+            </div>
+
+            <div className="px-2 py-2">
+            🗸
+            </div>
+
+            <div className="px-2 py-2">
+            🗸
+            </div>
+        </div>
+
+        <div className="px-2 py-4 sm:px-4">
+            <p className="font-semibold">Dedicated account manager</p>
+        </div>
+
+        <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+            <div className="px-2 py-2">-</div>
+
+            <div className="px-2 py-2">
+            -
+            </div>
+
+            <div className="px-2 py-2">
+            🗸
+            </div>
+
+            <div className="px-2 py-2">
+            🗸
+            </div>
+        </div>
+
+        <div className="px-2 py-4 sm:px-4">
+            <p className="font-semibold">Real time analytics</p>
+        </div>
+
+        <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+            <div className="px-2 py-2">-</div>
+
+            <div className="px-2 py-2">
+            -
+            </div>
+
+            <div className="px-2 py-2">
+            🗸
+            </div>
+
+            <div className="px-2 py-2">
+            🗸
+            </div>
+        </div>
+
+        <div className="px-2 py-4 sm:px-4">
+            <p className="font-semibold">Preview posts one week in advance</p>
+        </div>
+
+        <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+            <div className="px-2 py-2">-</div>
+
+            <div className="px-2 py-2">
+            -
+            </div>
+
+            <div className="px-2 py-2">
+            🗸
+            </div>
+
+            <div className="px-2 py-2">
+            🗸
+            </div>
+        </div>
+
+        <div className="px-2 py-4 sm:px-4">
+        <p className="font-semibold">1 strategy call per month included</p>
+    </div>
+
+    <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+        <div className="px-2 py-2">-</div>
+
+        <div className="px-2 py-2">
+        -
+        </div>
+
+        <div className="px-2 py-2">
+        🗸
+        </div>
+
+        <div className="px-2 py-2">
+        🗸
+        </div>
+    </div>
+        
+    <div className="px-2 py-4 sm:px-4">
+        <p className="font-semibold">Priority customer support</p>
+    </div>
+
+    <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+        <div className="px-2 py-2">🗸</div>
+
+        <div className="px-2 py-2">
+        🗸
+        </div>
+
+        <div className="px-2 py-2">
+        🗸
+        </div>
+
+        <div className="px-2 py-2">
+        🗸
+        </div>
+    </div>
+        
+    <div className="px-2 py-4 sm:px-4">
+    <p className="font-semibold">1 tree planted for every purchase 🌳</p>
+</div>
+
+<div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+    <div className="px-2 py-2">🗸</div>
+
+    <div className="px-2 py-2">
+    🗸
+    </div>
+
+    <div className="px-2 py-2">
+    🗸
+    </div>
+
+    <div className="px-2 py-2">
+    🗸
+    </div>
+</div>
+
+
+        <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+            <div className="px-1 py-2 sm:px-4">
+                <span className="text-sm font-medium text-blue-600"> Basic </span>
+                <p className="mt-2 text-xl font-bold">$50</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+                <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="flex items-center justify-center w-full px-1 py-2 mt-5 text-sm text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-md hover:bg-blue-700" role="button"> Get Started  </Link>
+            </div>
+
+            <div className="px-1 py-2 sm:px-4">
+                <span className="text-sm font-medium text-blue-600"> Pro</span>
+                <p className="mt-2 text-xl font-bold">$100</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+                <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="flex items-center justify-center w-full px-1 py-2 mt-5 text-sm text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-md hover:bg-blue-700" role="button"> Get Started  </Link>
+            </div>
+
+            <div className="px-1 py-2 sm:px-4">
+                <span className="text-sm font-medium text-blue-600"> Popular </span>
+                <p className="mt-2 text-xl font-bold">$150</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+                <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="flex items-center justify-center w-full px-1 py-2 mt-5 text-sm text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-md hover:bg-blue-700" role="button"> Get Started  </Link>
+            </div>
+
+            <div className="px-1 pt-2 pb-4 sm:px-4">
+                <span className="text-sm font-medium text-blue-600"> Ultimate </span>
+                <p className="mt-2 text-xl font-bold">$350</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+                <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="flex items-center justify-center w-full px-1 py-2 mt-5 text-sm text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-md hover:bg-blue-700" role="button"> Get Started  </Link>
+            </div>
+        </div>
+    </div>
+</section>
+
+  )
+}
+
+export default Plans
