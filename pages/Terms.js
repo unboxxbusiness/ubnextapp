@@ -1,7 +1,25 @@
 import React from 'react'
-
+import Head from 'next/head'
 const Terms = () => {
   return (
+   <>
+   <Head>
+   <title>Terms Policy</title>
+   <meta name="description" content="Our terms policy outlines the guidelines and conditions for using our services. Familiarize yourself with our terms to ensure a smooth and compliant experience." />
+   <meta name="keywords" content="Affordable YouTube video editor, professional editing services, boost channel success with quality editing,social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,
+   digital marketing agency near me,social media marketing company,social media marketing services" />
+   <meta property="og:title" content="Terms Policy" />
+   
+   <meta property="og:description" content="Our terms policy outlines the guidelines and conditions for using our services. Familiarize yourself with our terms to ensure a smooth and compliant experience." />
+   <meta property="og:image" content="/images/offer.png" />
+   <link rel="icon" href="/favicon.png" />
+ </Head>
+
+   
+   
+   
+  
+   
     <section className="py-10 bg-gray-100 sm:py-16 lg:py-24">
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="text-left">
@@ -25,11 +43,11 @@ const Terms = () => {
          
            <h2>4. Fees and Payments</h2>
            <p>a. Pricing: The pricing for our Service is provided on our website or as agreed upon during the onboarding process. We reserve the right to change our pricing at any time, but any changes will not affect ongoing subscription periods.</p>
-           <p>b. Payment Terms: You agree to pay the fees associated with the Service according to the selected plan and payment schedule. Payments are non-refundable except as expressly stated in these Terms or required by applicable law.</p>
+           <p>b. Payment Terms: You agree to pay the fees associated with the Service according to the selected plan and payment schedule. Payments are non-Termsable except as expressly stated in these Terms or required by applicable law.</p>
            <p>c. Taxes: You are responsible for any taxes, levies, or duties imposed by applicable laws related to your use of the Service.</p>
          
            <h2>5. Termination</h2>
-           <p>a. User Termination: You may terminate your use of the Service at any time by providing written notice to Unboxx. Termination does not entitle you to a refund for any fees paid.</p>
+           <p>a. User Termination: You may terminate your use of the Service at any time by providing written notice to Unboxx. Termination does not entitle you to a Terms for any fees paid.</p>
            <p>b. Unboxx Termination: We may suspend or terminate your access to the Service immediately and without prior notice if you breach these Terms or if we believe your use of the Service may cause harm to Unboxx, other users, or third parties.</p>
          
            <h2>6. Privacy Policy</h2>
@@ -54,6 +72,7 @@ const Terms = () => {
         </div>
     </div>
 </section>
+ </>
   )
 }
 

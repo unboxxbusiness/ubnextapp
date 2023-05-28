@@ -13,9 +13,11 @@ export default function Home() {
 return (
 <>
     <Head>
-        <title>Unboxx Business : Affordable social media management</title>
+        <title>Unboxx Business Affordable social media management</title>
         <meta name="description" content=" Affordable social media management for small businesses. Boost your online presence and engage with your target audience effectively." />
-        <meta property="og:title" content="Unboxx Business : Affordable social media management" />
+        <meta name="keywords" content="social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,
+        digital marketing agency near me,social media marketing company,social media marketing services" />
+        <meta property="og:title" content="Unboxx Business Affordable social media management" />
         <meta property="og:description" content=" Affordable social media management for small businesses. Boost your online presence and engage with your target audience effectively." />
         <meta property="og:image" content="/images/offer.png" />
         <link rel="icon" href="/favicon.png" />

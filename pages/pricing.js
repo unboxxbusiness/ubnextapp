@@ -1,9 +1,22 @@
 import Plans from '@/components/Home/Plans'
 import React from 'react'
-
+import Head from 'next/head'
 const pricing = () => {
   return (
     <>
+
+    <Head>
+        <title>Pricing</title>
+        <meta name="description" content="Explore our pricing options for high-quality services. Find the perfect plan to meet your needs and budget. Unlock great value and quality today." />
+        <meta name="keywords" content="Affordable YouTube video editor, professional editing services, boost channel success with quality editing,social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,
+        digital marketing agency near me,social media marketing company,social media marketing services" />
+        <meta property="og:title" content="Pricing" />
+        
+        <meta property="og:description" content="Explore our pricing options for high-quality services. Find the perfect plan to meet your needs and budget. Unlock great value and quality today." />
+        <meta property="og:image" content="/images/offer.png" />
+        <link rel="icon" href="/favicon.png" />
+      </Head>
+    
     <section className="py-10 bg-gray-900 sm:py-16 lg:py-24">
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="text-center">

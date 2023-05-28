@@ -1,7 +1,23 @@
 import React from 'react'
-
+import Head from 'next/head'
 const privacy = () => {
   return (
+
+    <>
+    <Head>
+        <title>Privacy Policy</title>
+        <meta name="description" content="Our privacy policy ensures the protection of your personal information. Discover how we handle data, safeguard your privacy, and prioritize security" />
+        <meta name="keywords" content="Affordable YouTube video editor, professional editing services, boost channel success with quality editing,social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,
+        digital marketing agency near me,social media marketing company,social media marketing services" />
+        <meta property="og:title" content="Privacy Policy" />
+        
+        <meta property="og:description" content="Our privacy policy ensures the protection of your personal information. Discover how we handle data, safeguard your privacy, and prioritize security" />
+        <meta property="og:image" content="/images/offer.png" />
+        <link rel="icon" href="/favicon.png" />
+      </Head>
+    
+    
+   
     <section className="py-10 bg-gray-100 sm:py-16 lg:py-24">
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="text-left">
@@ -51,6 +67,8 @@ const privacy = () => {
     </div>
     </div>
 </section>
+
+</>
   )
 }
 
