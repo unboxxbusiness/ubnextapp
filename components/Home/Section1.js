@@ -26,7 +26,7 @@ const Section1 = () => {
 
             <div className="2xl:pl-16">
                 <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl lg:leading-tight">Why do I need social media?</h2>
-                <p className="text-xl leading-relaxed text-gray-900 mt-9">Social media is crucial for small business success, but many owners struggle with consistency and content ideas. This can lead to negative feelings, but it's possible to change that. Let's explore how social media benefits businesses and boosts growth.</p>
+                <p className="text-xl leading-relaxed text-gray-900 mt-9">Social media is crucial for small business success, but many owners struggle with consistency and content ideas. This can lead to negative feelings, but its possible to change that. Lets explore how social media benefits businesses and boosts growth.</p>
                 <p className="mt-6 text-xl leading-relaxed text-gray-900">Increase organic leads by 50%!</p>
                 <ul className='list-disc ml-4 text-xl'>
                 <li>

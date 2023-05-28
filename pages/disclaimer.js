@@ -8,7 +8,7 @@ const disclaimer = () => {
     <article className='prose lg:prose-xl text-black max-w-none'>
     
     <h1>Disclaimer Policy</h1>
-  <p>This Disclaimer Policy ("Policy") governs your use of the Unboxx services ("Service") provided by us ("Unboxx," "we," or "our"). By using the Service, you agree to be bound by the terms and conditions set forth in this Policy.</p>
+  <p>This Disclaimer Policy (Policy) governs your use of the Unboxx services (Service) provided by us (Unboxx, we, or our). By using the Service, you agree to be bound by the terms and conditions set forth in this Policy.</p>
 
   <h2>1. No Guaranteed Results</h2>
   <p>The Service provided by Unboxx is intended to empower small business owners with a professional social media presence. However, we cannot guarantee specific outcomes or business success as the effectiveness of social media presence can vary based on various factors beyond our control, including market conditions, user engagement, and individual business strategies.</p>

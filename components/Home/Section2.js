@@ -21,7 +21,7 @@ const Section2 = () => {
                     <p className="text-lg font-medium text-gray-500">Step 1</p>
                     
                     <ul className="flex flex-col mt-8 space-y-1">
-                        <li className="text-base font-medium text-gray-900 lg:text-xl">Simply tap the button below to commence. We present a range of choices for you; just pick your desired combination and you'll be swiftly on your way to completion!</li>
+                        <li className="text-base font-medium text-gray-900 lg:text-xl">Simply tap the button below to commence. We present a range of choices for you; just pick your desired combination and you will be swiftly on your way to completion!</li>
                         
                     </ul>
                 </div>
@@ -55,7 +55,7 @@ const Section2 = () => {
                     <p className="text-lg font-medium text-gray-500">Step 3</p>
                     
                     <ul className="flex flex-col mt-8 space-y-1">
-                        <li className="text-base font-medium text-gray-900 lg:text-xl">Within 2 working days of social media account access, we'll start daily posting. Relax, let go of social media stress, and focus on business growth.</li>
+                        <li className="text-base font-medium text-gray-900 lg:text-xl">Within 2 working days of social media account access, we will start daily posting. Relax, let go of social media stress, and focus on business growth.</li>
 
                     </ul>
                 </div>

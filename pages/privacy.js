@@ -8,7 +8,7 @@ const privacy = () => {
     <article className='prose lg:prose-xl text-black max-w-none'>
     
     <h1>Privacy Policy</h1>
-  <p>This Privacy Policy ("Policy") explains how Unboxx ("we," "us," or "our") collects, uses, and discloses personal information when you use our services ("Service"). By using the Service, you agree to the terms and practices described in this Policy.</p>
+  <p>This Privacy Policy (Policy) explains how Unboxx (we, us, or our) collects, uses, and discloses personal information when you use our services (Service). By using the Service, you agree to the terms and practices described in this Policy.</p>
 
   <h2>1. Information Collection</h2>
   <p>a. Personal Information: We may collect personal information that you provide to us, such as your name, email address, contact information, and other details necessary for providing the Service.</p>
@@ -32,7 +32,7 @@ const privacy = () => {
   <p>a. Account Information: You have the right to review and update your account information. Please contact us at the provided email address to make any necessary changes.</p>
   <p>b. Communication Preferences: You can opt-out of receiving promotional emails from us by following the unsubscribe instructions provided in the email. However, we may still send you non-promotional emails related to the Service.</p>
 
-  <h2>6. Children's Privacy</h2>
+  <h2>6. Childrens Privacy</h2>
   <p>The Service is not intended for individuals under the age of 18. We do not knowingly collect or solicit personal information from anyone under the age of 18. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us at the provided email address.</p>
 
   <h2>7. Third-Party Links</h2>

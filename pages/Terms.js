@@ -8,7 +8,7 @@ const Terms = () => {
             
            <article className='prose lg:prose-xl text-black max-w-none'>
            <h1>Terms and Conditions</h1>
-           <p>Please read these Terms and Conditions ("Terms") carefully before using the Unboxx business services ("Service") provided by us ("Unboxx," "we," or "us"). These Terms govern your use of the Service and constitute a legally binding agreement between you ("User," "you," or "your") and Unboxx. By accessing or using the Service, you agree to be bound by these Terms. If you do not agree to these Terms, you may not use the Service.</p>
+           <p>Please read these Terms and Conditions (Terms) carefully before using the Unboxx business services (Service) provided by us (Unboxx, we, or us). These Terms govern your use of the Service and constitute a legally binding agreement between you (User, you, or your) and Unboxx. By accessing or using the Service, you agree to be bound by these Terms. If you do not agree to these Terms, you may not use the Service.</p>
          
            <h2>1. Service Description</h2>
            <p>Unboxx provides small business owners with a professional social media presence by offering tailored social media management, content creation, and marketing services.</p>

@@ -7,7 +7,7 @@ const refund = () => {
         <div className="text-left">
     <article className='prose lg:prose-xl text-black max-w-none'>
     <h1>No Refund Policy</h1>
-    <p>This No Refund Policy ("Policy") outlines the refund policy for the services ("Service") provided by Unboxx ("we," "us," or "our"). By using the Service, you agree to be bound by the terms and conditions set forth in this Policy.</p>
+    <p>This No Refund Policy (Policy) outlines the refund policy for the services (Service) provided by Unboxx (we, us, or our). By using the Service, you agree to be bound by the terms and conditions set forth in this Policy.</p>
   
     <h2>1. Non-Refundable Fees</h2>
     <p>All fees associated with the Service are non-refundable, except as expressly stated in this Policy or required by applicable law.</p>
