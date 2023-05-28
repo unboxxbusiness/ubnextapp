@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Head from 'next/head';
 import Link from 'next/link'
 import Features from '@/components/Home/Features'
 import Section1 from '@/components/Home/Section1'
@@ -10,6 +11,16 @@ import Section5 from '@/components/Home/Section5'
 
 export default function Home() {
 return (
+<>
+    <Head>
+        <title>Unboxx Business : Affordable social media management</title>
+        <meta name="description" content=" Affordable social media management for small businesses. Boost your online presence and engage with your target audience effectively." />
+        <meta property="og:title" content="Unboxx Business : Affordable social media management" />
+        <meta property="og:description" content=" Affordable social media management for small businesses. Boost your online presence and engage with your target audience effectively." />
+        <meta property="og:image" content="/images/offer.png" />
+        <link rel="icon" href="/favicon.png" />
+      </Head>
+
   <div className="bg-gray-50">
    
   <section className="relative py-12 sm:py-16 lg:pb-40">
@@ -86,7 +97,7 @@ return (
 
 </div>
 
-
+</>
 
 )
 }
