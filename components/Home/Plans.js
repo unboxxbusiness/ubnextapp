@@ -7,8 +7,8 @@ const Plans = () => {
     <section className="py-10 bg-white sm:py-16 lg:py-24">
     <div className="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div className="max-w-xl mx-auto text-center">
-            <h2 className="text-4xl font-bold text-black lg:text-5xl sm:text-5xl">⭐⭐⭐⭐⭐</h2>
-            <p className="mt-4 text-lg leading-relaxed text-gray-600">Check out our budget-friendly social media management packages, carefully crafted to be the most affordable options available.</p>
+            <h2 className="text-4xl font-bold text-black lg:text-5xl sm:text-5xl">Pricing</h2>
+            <p className="mt-4 text-lg leading-relaxed text-gray-600">Unbeatable Pre-Launch Prices: Save over 50% Off! All prices quoted are one-time payments in US dollars. Same-day express service available at double the rate.</p>
         </div>
 
         
@@ -19,46 +19,46 @@ const Plans = () => {
                         <th className="py-8 pr-4"></th>
 
                         <th className="px-4 py-8 text-center">
-                            <span className="text-base font-medium text-blue-600"> Basic</span>
-                            <p className="mt-6 text-6xl font-bold">$50</p>
-                            <p className="mt-2 text-base font-normal text-gray-500">Per month</p>
+                            <span className="text-base font-medium text-blue-600"> Bronze</span>
+                            <p className="mt-6 text-6xl font-bold">$49</p>
+                            <p className="mt-2 text-base font-normal text-gray-500">One Time</p>
                         </th>
 
                         <th className="px-4 py-8 text-center">
-                            <span className="text-base font-medium text-blue-600"> Pro </span>
-                            <p className="mt-6 text-6xl font-bold">$100</p>
-                            <p className="mt-2 text-base font-normal text-gray-500">Per month</p>
+                            <span className="text-base font-medium text-blue-600"> Silver</span>
+                            <p className="mt-6 text-6xl font-bold">$150</p>
+                            <p className="mt-2 text-base font-normal text-gray-500">One Time</p>
                         </th>
 
                         <th className="px-4 py-8 text-center bg-gray-900 rounded-t-xl">
-                            <span className="px-4 py-2 text-base font-medium text-white bg-blue-600 rounded-full"> Popular </span>
-                            <p className="mt-6 text-6xl font-bold text-white">$150</p>
-                            <p className="mt-2 text-base font-normal text-gray-200">Per month</p>
+                            <span className="px-4 py-2 text-base font-medium text-white bg-blue-600 rounded-full"> Gold </span>
+                            <p className="mt-6 text-6xl font-bold text-white">$350</p>
+                            <p className="mt-2 text-base font-normal text-gray-200">One Time</p>
                         </th>
 
                         <th className="px-4 py-8 text-center">
                             <span className="text-base font-medium text-blue-600"> Ultimate</span>
-                            <p className="mt-6 text-6xl font-bold">$350</p>
-                            <p className="mt-2 text-base font-normal text-gray-500">Per month</p>
+                            <p className="mt-6 text-6xl font-bold">$500</p>
+                            <p className="mt-2 text-base font-normal text-gray-500">One Time</p>
                         </th>
                     </tr>
                 </thead>
 
                 <tbody>
                     <tr>
-                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Game Changer Post Per Week</td>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Website Pages</td>
 
-                        <td className="px-4 py-4 text-center border-b border-gray-200">01 on 1 Platform</td>
+                        <td className="px-4 py-4 text-center border-b border-gray-200">01</td>
 
-                        <td className="px-4 py-4 text-center border-b border-gray-200">03 on 2 Platforms</td>
+                        <td className="px-4 py-4 text-center border-b border-gray-200">08</td>
 
-                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">05 on 3 Platforms</td>
+                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">Multiple Pages</td>
 
-                        <td className="px-4 py-4 text-center border-b border-gray-200">07 on 4 Platforms</td>
+                        <td className="px-4 py-4 text-center border-b border-gray-200">Multiple Pages</td>
                     </tr>
 
                     <tr>
-                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Exclusive content </td>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Free Web Hosting On Netlify </td>
 
                         <td className="px-4 py-4 text-center border-b border-gray-200">
                         <svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
@@ -86,7 +86,7 @@ const Plans = () => {
                     </tr>
 
                     <tr>
-                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Content strategy designed</td>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Free illustrations from Pixabay/Pexels</td>
 
                         <td className="px-4 py-4 text-center border-b border-gray-200">
                         <svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
@@ -114,7 +114,7 @@ const Plans = () => {
                     </tr>
 
                     <tr>
-                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Unique Graphics</td>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">3-5 working days turn-around</td>
 
                         <td className="px-4 py-4 text-center border-b border-gray-200">
                         
@@ -144,7 +144,7 @@ const Plans = () => {
                     </tr>
 
                     <tr>
-                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Dedicated account manager</td>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">No copywriting or graphic design</td>
 
                         <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
 
@@ -184,7 +184,23 @@ const Plans = () => {
                     </tr>
 
                     <tr>
-                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Preview posts one week in advance</td>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Website Revision</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">01</td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">02</td>
+
+                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">
+                        03
+                        </td>
+
+                        <td className="px-4 py-4 text-center border-b border-gray-200">
+                        05
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td className="py-4 pr-4 font-medium border-b border-gray-200">Custom Domain</td>
 
                         <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
 
@@ -204,40 +220,14 @@ const Plans = () => {
                     </tr>
 
                     <tr>
-                        <td className="py-4 pr-4 font-medium border-b border-gray-200">1 strategy call per month included</td>
+                    <td className="py-4 pr-4 font-medium border-b border-gray-200">Backend Admin Panel</td>
 
-                        <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
+                    <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
 
-                        <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
-
-                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">
-                        <svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg>
-                        </td>
-
-                        <td className="px-4 py-4 text-center border-b border-gray-200">
-                        <svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg>
-                        </td>
-                    </tr>
-
-                    <tr>
-                    <td className="py-4 pr-4 font-medium border-b border-gray-200">Priority customer support</td>
-
-                    <td className="px-4 py-4 text-center border-b border-gray-200"><svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg></td>
-
-                    <td className="px-4 py-4 text-center border-b border-gray-200"><svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg></td>
+                    <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
 
                     <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">
-                    <svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg>
+                    -
                     </td>
 
                     <td className="px-4 py-4 text-center border-b border-gray-200">
@@ -246,6 +236,26 @@ const Plans = () => {
                             </svg>
                     </td>
                 </tr>
+
+
+
+                <tr>
+                <td className="py-4 pr-4 font-medium border-b border-gray-200">Priority customer support</td>
+
+                <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
+
+                <td className="px-4 py-4 text-center border-b border-gray-200">-</td>
+
+                <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">
+                Email Support
+                </td>
+
+                <td className="px-4 py-4 text-center border-b border-gray-200">
+                Email + Live Chat Support
+                </td>
+            </tr>
+
+
 
                 <tr>
                     <td className="py-4 pr-4 font-medium border-b border-gray-200">1 tree planted for every purchase 🌳</td>
@@ -320,68 +330,46 @@ const Plans = () => {
     <div className="block mt-12 border-t border-b border-gray-200 divide-y divide-gray-200 lg:hidden">
         <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
             <div className="px-2 py-2">
-                <span className="text-sm font-medium text-blue-600"> Basic </span>
-                <p className="mt-2 text-xl font-bold">$50</p>
-                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+                <span className="text-sm font-medium text-blue-600"> Bronze </span>
+                <p className="mt-2 text-xl font-bold">$49</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> One Time </span>
             </div>
 
             <div className="px-2 py-2">
-                <span className="text-sm font-medium text-blue-600"> Pro </span>
-                <p className="mt-2 text-xl font-bold">$100</p>
-                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
-            </div>
-
-            <div className="px-2 py-2">
-                <span className="text-sm font-medium text-blue-600"> Popular </span>
+                <span className="text-sm font-medium text-blue-600"> Silver </span>
                 <p className="mt-2 text-xl font-bold">$150</p>
-                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+                <span className="mt-1 text-sm font-normal text-gray-500"> One Time </span>
+            </div>
+
+            <div className="px-2 py-2">
+                <span className="text-sm font-medium text-blue-600"> Gold </span>
+                <p className="mt-2 text-xl font-bold">$350</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> One Time </span>
             </div>
 
             <div className="px-2 py-2">
                 <span className="text-sm font-medium text-blue-600"> Ultimate </span>
-                <p className="mt-2 text-xl font-bold">$350</p>
-                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+                <p className="mt-2 text-xl font-bold">$550</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> One Time </span>
             </div>
         </div>
 
         <div className="px-2 py-4 sm:px-4">
-            <p className="font-semibold">Game Changer Post Per Week</p>
+            <p className="font-semibold">Website Pages</p>
         </div>
 
         <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
-            <div className="px-2 py-2">01 on 1 Platform</div>
+            <div className="px-2 py-2">01</div>
 
-            <div className="px-2 py-2">03 on 2 Platforms</div>
+            <div className="px-2 py-2">08</div>
 
-            <div className="px-2 py-2">05 on 3 Platforms</div>
+            <div className="px-2 py-2">Multiple Pages</div>
 
-            <div className="px-2 py-2">07 on 4 Platforms</div>
+            <div className="px-2 py-2">Multiple Pages</div>
         </div>
 
         <div className="px-2 py-4 sm:px-4">
-            <p className="font-semibold">Exclusive content </p>
-        </div>
-
-        <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
-            <div className="px-2 py-2"><svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg></div>
-
-            <div className="px-2 py-2"><svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg></div>
-
-            <div className="px-2 py-2"><svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg></div>
-
-            <div className="px-2 py-2"><svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg></div>
-        </div>
-
-        <div className="px-2 py-4 sm:px-4">
-            <p className="font-semibold">Content strategy designed</p>
+            <p className="font-semibold">Free Web Hosting On Netlify  </p>
         </div>
 
         <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
@@ -403,7 +391,29 @@ const Plans = () => {
         </div>
 
         <div className="px-2 py-4 sm:px-4">
-            <p className="font-semibold">Unique Graphics</p>
+            <p className="font-semibold">Free illustrations from Pixabay/Pexels</p>
+        </div>
+
+        <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+            <div className="px-2 py-2"><svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                            </svg></div>
+
+            <div className="px-2 py-2"><svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                            </svg></div>
+
+            <div className="px-2 py-2"><svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                            </svg></div>
+
+            <div className="px-2 py-2"><svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                            </svg></div>
+        </div>
+
+        <div className="px-2 py-4 sm:px-4">
+            <p className="font-semibold">3-5 working days turn-around</p>
         </div>
 
         <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
@@ -431,7 +441,7 @@ const Plans = () => {
         </div>
 
         <div className="px-2 py-4 sm:px-4">
-            <p className="font-semibold">Dedicated account manager</p>
+            <p className="font-semibold">No copywriting or graphic design</p>
         </div>
 
         <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
@@ -479,31 +489,27 @@ const Plans = () => {
         </div>
 
         <div className="px-2 py-4 sm:px-4">
-            <p className="font-semibold">Preview posts one week in advance</p>
+            <p className="font-semibold">Website Revision</p>
         </div>
 
         <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
-            <div className="px-2 py-2">-</div>
+            <div className="px-2 py-2">01</div>
 
             <div className="px-2 py-2">
-            -
+            02
             </div>
 
             <div className="px-2 py-2">
-            <svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg>
+           03
             </div>
 
             <div className="px-2 py-2">
-            <svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg>
+           05
             </div>
         </div>
 
         <div className="px-2 py-4 sm:px-4">
-        <p className="font-semibold">1 strategy call per month included</p>
+        <p className="font-semibold">Custom Domain</p>
     </div>
 
     <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
@@ -527,24 +533,18 @@ const Plans = () => {
     </div>
         
     <div className="px-2 py-4 sm:px-4">
-        <p className="font-semibold">Priority customer support</p>
+        <p className="font-semibold">Backend Admin Panel</p>
     </div>
 
     <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
-        <div className="px-2 py-2"><svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg></div>
+        <div className="px-2 py-2">-</div>
 
         <div className="px-2 py-2">
-        <svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg>
+       -
         </div>
 
         <div className="px-2 py-2">
-        <svg className="flex-shrink-0 w-5 h-5 text-indigo-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-                                <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
-                            </svg>
+       -
         </div>
 
         <div className="px-2 py-2">
@@ -554,6 +554,29 @@ const Plans = () => {
         </div>
     </div>
         
+    <div className="px-2 py-4 sm:px-4">
+    <p className="font-semibold">Priority customer support</p>
+</div>
+
+<div className="grid grid-cols-4 text-center divide-x divide-gray-200">
+    <div className="px-2 py-2">-</div>
+
+    <div className="px-2 py-2">
+    -
+    </div>
+
+    <div className="px-2 py-2">
+    Email
+    </div>
+
+    <div className="px-2 py-2">
+   Email + LiveChat
+    </div>
+</div>
+
+
+
+
     <div className="px-2 py-4 sm:px-4">
     <p className="font-semibold">1 tree planted for every purchase 🌳</p>
 </div>
@@ -585,30 +608,30 @@ const Plans = () => {
 
         <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
             <div className="px-1 py-2 sm:px-4">
-                <span className="text-sm font-medium text-blue-600"> Basic </span>
-                <p className="mt-2 text-xl font-bold">$50</p>
-                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+                <span className="text-sm font-medium text-blue-600"> Bronze </span>
+                <p className="mt-2 text-xl font-bold">$49</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> One Time </span>
                 <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="flex items-center justify-center w-full px-1 py-2 mt-5 text-sm text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-md hover:bg-blue-700" role="button"> Get Started  </Link>
             </div>
 
             <div className="px-1 py-2 sm:px-4">
-                <span className="text-sm font-medium text-blue-600"> Pro</span>
-                <p className="mt-2 text-xl font-bold">$100</p>
-                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
-                <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="flex items-center justify-center w-full px-1 py-2 mt-5 text-sm text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-md hover:bg-blue-700" role="button"> Get Started  </Link>
-            </div>
-
-            <div className="px-1 py-2 sm:px-4">
-                <span className="text-sm font-medium text-blue-600"> Popular </span>
+                <span className="text-sm font-medium text-blue-600"> Silver</span>
                 <p className="mt-2 text-xl font-bold">$150</p>
-                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+                <span className="mt-1 text-sm font-normal text-gray-500"> One Time </span>
+                <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="flex items-center justify-center w-full px-1 py-2 mt-5 text-sm text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-md hover:bg-blue-700" role="button"> Get Started  </Link>
+            </div>
+
+            <div className="px-1 py-2 sm:px-4">
+                <span className="text-sm font-medium text-blue-600"> Gold </span>
+                <p className="mt-2 text-xl font-bold">$350</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> One Time </span>
                 <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="flex items-center justify-center w-full px-1 py-2 mt-5 text-sm text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-md hover:bg-blue-700" role="button"> Get Started  </Link>
             </div>
 
             <div className="px-1 pt-2 pb-4 sm:px-4">
                 <span className="text-sm font-medium text-blue-600"> Ultimate </span>
-                <p className="mt-2 text-xl font-bold">$350</p>
-                <span className="mt-1 text-sm font-normal text-gray-500"> Per month </span>
+                <p className="mt-2 text-xl font-bold">$500</p>
+                <span className="mt-1 text-sm font-normal text-gray-500"> One Time </span>
                 <Link href="https://wa.me/message/WYGR5WKQWVJMA1" title="" className="flex items-center justify-center w-full px-1 py-2 mt-5 text-sm text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-md hover:bg-blue-700" role="button"> Get Started  </Link>
             </div>
         </div>

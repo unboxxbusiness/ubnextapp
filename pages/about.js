@@ -21,8 +21,8 @@ const about = () => {
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="text-left">
             <h2 className="text-3xl font-bold leading-tight text-black sm:text-3xl lg:text-4xl">About Us</h2>
-            <p className="mt-4 text-lg font-medium">Unboxx Business empowers small business owners with a professional social media presence. We specialize in creating tailored strategies, engaging content, and targeted ad campaigns. Our mission is to help businesses thrive online and make a lasting impact on their audience. </p>
-            <p className="mt-4 text-lg font-medium"> Let us unbox the power of social media for your business.</p>
+            <p className="mt-4 text-lg font-medium">At Unboxx Business, we make it effortless for real estate individuals and corporates to have stunning websites. Say goodbye to Wordpress frustrations and hello to the ease, speed, and security of modern JAMstack technology. </p>
+            <p className="mt-4 text-lg font-medium"> We also offer exceptional social media management to help grow your online presence. Unlock the potential of Unboxx Business for seamless real estate websites and successful social media strategies.</p>
       
         </div>
     </div>

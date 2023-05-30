@@ -42,15 +42,15 @@ function Nav() {
                     onClick={closeMenu} // Close menu when clicked
                     className="text-gray-800 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                   >
-                    🔥Youtube Video Editing
+                    🔥Booster 
                   </Link>
 
                   <Link
-                    href="/web"
+                    href="/faq"
                     onClick={closeMenu} // Close menu when clicked
                     className="text-gray-800 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                   >
-                    🚀Website Development
+                    🚀FAQs
                   </Link>
 
                   <Link
@@ -58,7 +58,7 @@ function Nav() {
                     onClick={closeMenu} // Close menu when clicked
                     className="text-gray-800 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                   >
-                    Free Bootcamp
+                    Bootcamp Program
                   </Link>
                 </div>
               </div>
@@ -135,15 +135,15 @@ function Nav() {
                   onClick={closeMenu} // Close menu when clicked
                   className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  🔥Youtube Video Editing
+                  🔥Booster
                 </Link>
 
                 <Link
-                  href="/web"
+                  href="/faq"
                   onClick={closeMenu} // Close menu when clicked
                   className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  🚀Website Development
+                  🚀FAQs
                 </Link>
 
                 <Link
@@ -151,7 +151,7 @@ function Nav() {
                   onClick={closeMenu} // Close menu when clicked
                   className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  Free Bootcamp
+                  Bootcamp Program
                 </Link>
               </div>
             </div>
