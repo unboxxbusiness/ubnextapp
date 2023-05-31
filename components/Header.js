@@ -53,13 +53,7 @@ function Nav() {
                     🚀FAQs
                   </Link>
 
-                  <Link
-                    href="https://courses.unboxxbusiness.com"
-                    onClick={closeMenu} // Close menu when clicked
-                    className="text-gray-800 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
-                  >
-                    Bootcamp Program
-                  </Link>
+                 
                 </div>
               </div>
             </div>
@@ -146,13 +140,7 @@ function Nav() {
                   🚀FAQs
                 </Link>
 
-                <Link
-                  href="https://courses.unboxxbusiness.com"
-                  onClick={closeMenu} // Close menu when clicked
-                  className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
-                >
-                  Bootcamp Program
-                </Link>
+               
               </div>
             </div>
           )}
