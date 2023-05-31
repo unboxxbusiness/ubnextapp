@@ -14,7 +14,7 @@ const ContactForm = () => {
         if (response.ok) {
           // Form submission successful
           form.reset();
-          alert('Thank you for your message!');
+          window.location.href = '/success'; // Redirect to success page
         } else {
           // Form submission failed
           throw new Error('Form submission failed');
@@ -34,9 +34,7 @@ const ContactForm = () => {
       method="POST"
       data-netlify="true"
       data-netlify-honeypot="bot-field"
-      data-netlify-recaptcha="true"
       name="contact"
-      action="/submit"
     >
       <input type="hidden" name="form-name" value="contact" />
 
