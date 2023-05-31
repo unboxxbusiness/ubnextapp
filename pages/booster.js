@@ -9,13 +9,13 @@ const booster = () => {
 <>
 
 <Head>
-        <title>Booster Done For You Services</title>
-        <meta name="description" content="Affordable social media management for small businesses. Boost your online presence and engage with your target audience effectively." />
-        <meta name="keywords" content="Affordable YouTube video editor, professional editing services, boost channel success with quality editing,social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,
-        digital marketing agency near me,social media marketing company,social media marketing services" />
-        <meta property="og:title" content="Booster Done For You Services" />
+        <title>Social Media Management Services - Unboxx Business</title>
+        <meta name="description" content="Elevate your online presence with our expert social media management services. Engaging content, campaigns, and analytics to boost your brand." />
+        <meta name="keywords" content="Affordable Jamstack websites, budget-friendly solutions, speed-optimized & secure, scalable web development, expert design services,
+        social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,digital marketing agency near me,social media marketing company,social media marketing services" />
+        <meta property="og:title" content="Social Media Management Services - Unboxx Business" />
         
-        <meta property="og:description" content="Affordable social media management for small businesses. Boost your online presence and engage with your target audience effectively." />
+        <meta property="og:description" content="Elevate your online presence with our expert social media management services. Engaging content, campaigns, and analytics to boost your brand." />
         <meta property="og:image" content="/images/offer.png" />
         <link rel="icon" href="/favicon.png" />
       </Head>

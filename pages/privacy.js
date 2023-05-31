@@ -5,13 +5,13 @@ const privacy = () => {
 
     <>
     <Head>
-        <title>Privacy Policy</title>
-        <meta name="description" content="Our privacy policy ensures the protection of your personal information. Discover how we handle data, safeguard your privacy, and prioritize security" />
-        <meta name="keywords" content="Affordable YouTube video editor, professional editing services, boost channel success with quality editing,social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,
-        digital marketing agency near me,social media marketing company,social media marketing services" />
-        <meta property="og:title" content="Privacy Policy" />
+        <title>Privacy Policy - Unboxx Business: Your Data Privacy and Security</title>
+        <meta name="description" content="Read our privacy policy to understand how Unboxx Business protects your data privacy and ensures the security of your information." />
+        <meta name="keywords" content="Affordable Jamstack websites, budget-friendly solutions, speed-optimized & secure, scalable web development, expert design services,
+        social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,digital marketing agency near me,social media marketing company,social media marketing services" />
+        <meta property="og:title" content="Privacy Policy - Unboxx Business: Your Data Privacy and Security" />
         
-        <meta property="og:description" content="Our privacy policy ensures the protection of your personal information. Discover how we handle data, safeguard your privacy, and prioritize security" />
+        <meta property="og:description" content="Read our privacy policy to understand how Unboxx Business protects your data privacy and ensures the security of your information." />
         <meta property="og:image" content="/images/offer.png" />
         <link rel="icon" href="/favicon.png" />
       </Head>

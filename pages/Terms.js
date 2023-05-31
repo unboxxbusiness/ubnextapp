@@ -4,21 +4,17 @@ const Terms = () => {
   return (
    <>
    <Head>
-   <title>Terms Policy</title>
-   <meta name="description" content="Our terms policy outlines the guidelines and conditions for using our services. Familiarize yourself with our terms to ensure a smooth and compliant experience." />
-   <meta name="keywords" content="Affordable YouTube video editor, professional editing services, boost channel success with quality editing,social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,
-   digital marketing agency near me,social media marketing company,social media marketing services" />
-   <meta property="og:title" content="Terms Policy" />
+   <title>Terms of Service - Unboxx Business: Agreement and Guidelines</title>
+   <meta name="description" content="Familiarize yourself with Unboxx Business's terms of service, covering our agreement, guidelines, and usage terms for our website and services." />
+   <meta name="keywords" content="Affordable Jamstack websites, budget-friendly solutions, speed-optimized & secure, scalable web development, expert design services,
+   social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,digital marketing agency near me,social media marketing company,social media marketing services" />
+   <meta property="og:title" content="Terms of Service - Unboxx Business: Agreement and Guidelines" />
    
-   <meta property="og:description" content="Our terms policy outlines the guidelines and conditions for using our services. Familiarize yourself with our terms to ensure a smooth and compliant experience." />
+   <meta property="og:description" content="Familiarize yourself with Unboxx Business's terms of service, covering our agreement, guidelines, and usage terms for our website and services." />
    <meta property="og:image" content="/images/offer.png" />
    <link rel="icon" href="/favicon.png" />
  </Head>
 
-   
-   
-   
-  
    
     <section className="py-10 bg-gray-100 sm:py-16 lg:py-24">
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">

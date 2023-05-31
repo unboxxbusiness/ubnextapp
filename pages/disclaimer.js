@@ -4,13 +4,13 @@ const disclaimer = () => {
   return (
     <>
      <Head>
-        <title>Disclaimer Policy</title>
-        <meta name="description" content="Our comprehensive disclaimer policy outlines the terms of use and limitations of liability. Understand our guidelines for accessing and using our website effectively." />
-        <meta name="keywords" content="Affordable YouTube video editor, professional editing services, boost channel success with quality editing,social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,
-        digital marketing agency near me,social media marketing company,social media marketing services" />
-        <meta property="og:title" content="Get in Touch with Us - Contact Our Team Today" />
+        <title>Disclaimer - Unboxx Business: Important Information and Limitations</title>
+        <meta name="description" content="Read our disclaimer for important information and limitations regarding the use of our website and services." />
+        <meta name="keywords" content="Affordable Jamstack websites, budget-friendly solutions, speed-optimized & secure, scalable web development, expert design services,
+        social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,digital marketing agency near me,social media marketing company,social media marketing services" />
+        <meta property="og:title" content="Disclaimer - Unboxx Business: Important Information and Limitations" />
         
-        <meta property="og:description" content="Our comprehensive disclaimer policy outlines the terms of use and limitations of liability. Understand our guidelines for accessing and using our website effectively." />
+        <meta property="og:description" content="Read our disclaimer for important information and limitations regarding the use of our website and services." />
         <meta property="og:image" content="/images/offer.png" />
         <link rel="icon" href="/favicon.png" />
       </Head>
@@ -21,7 +21,7 @@ const disclaimer = () => {
         <div className="text-left">
     <article className='prose lg:prose-xl text-black max-w-none'>
     
-    <h1>Disclaimer Policy</h1>
+    <h1>Disclaimer - Unboxx Business: Important Information and Limitations</h1>
   <p>This Disclaimer Policy (Policy) governs your use of the Unboxx services (Service) provided by us (Unboxx, we, or our). By using the Service, you agree to be bound by the terms and conditions set forth in this Policy.</p>
 
   <h2>1. No Guaranteed Results</h2>

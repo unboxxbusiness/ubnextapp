@@ -5,13 +5,13 @@ const refund = () => {
 
     <>
     <Head>
-        <title>Refund Policy</title>
-        <meta name="description" content="Learn about our transparent refund policy. Find out how we handle refund requests and ensure customer satisfaction. Your peace of mind is our priority" />
-        <meta name="keywords" content="Affordable YouTube video editor, professional editing services, boost channel success with quality editing,social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,
-        digital marketing agency near me,social media marketing company,social media marketing services" />
-        <meta property="og:title" content="Refund Policy" />
+        <title>Refund Policy - Unboxx Business: Our Policy for Returns and Refunds</title>
+        <meta name="description" content="Learn about Unboxx Business's refund policy, including details on returns, refunds, and our commitment to customer satisfaction." />
+        <meta name="keywords" content="Affordable Jamstack websites, budget-friendly solutions, speed-optimized & secure, scalable web development, expert design services,
+        social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,digital marketing agency near me,social media marketing company,social media marketing services" />
+        <meta property="og:title" content="Refund Policy - Unboxx Business: Our Policy for Returns and Refunds" />
         
-        <meta property="og:description" content="Learn about our transparent refund policy. Find out how we handle refund requests and ensure customer satisfaction. Your peace of mind is our priority" />
+        <meta property="og:description" content="Learn about Unboxx Business's refund policy, including details on returns, refunds, and our commitment to customer satisfaction." />
         <meta property="og:image" content="/images/offer.png" />
         <link rel="icon" href="/favicon.png" />
       </Head>

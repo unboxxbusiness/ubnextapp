@@ -7,8 +7,8 @@ const faq = () => {
     <Head>
         <title>Frequently Asked Questions FAQ - Unboxx Business</title>
         <meta name="description" content="Discover answers to commonly asked questions about Unboxx Business services, pricing tiers, web development, hosting, and more. Get all the information you need to make an informed decision for your business website." />
-        <meta name="keywords" content="social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,
-        digital marketing agency near me,social media marketing company,social media marketing services" />
+        <meta name="keywords" content="Affordable Jamstack websites, budget-friendly solutions, speed-optimized & secure, scalable web development, expert design services,
+        social media, small businesses, professional, brand, solutions,social media agency india,social media marketing india,social media management india,social media handling india,small business,business ideas,marketing agency for social media ,marketing social media agency,digital marketing agency near me,social media marketing company,social media marketing services" />
         <meta property="og:title" content="Frequently Asked Questions FAQ - Unboxx Business" />
         
         <meta property="og:description" content="Discover answers to commonly asked questions about Unboxx Business services, pricing tiers, web development, hosting, and more. Get all the information you need to make an informed decision for your business website." />
