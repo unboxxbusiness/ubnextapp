@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Link from 'next/link'
 const submit = () => {
   return (
     <section className="py-10 bg-gray-100 sm:py-16 lg:py-24">
