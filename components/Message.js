@@ -10,10 +10,15 @@ const ContactForm = () => {
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: new URLSearchParams(formData).toString(),
     })
-      .then(() => {
-        // Form submission successful
-        form.reset();
-        alert('Thank you for your message!');
+      .then((response) => {
+        if (response.ok) {
+          // Form submission successful
+          form.reset();
+          alert('Thank you for your message!');
+        } else {
+          // Form submission failed
+          throw new Error('Form submission failed');
+        }
       })
       .catch((error) => {
         // Form submission failed
@@ -28,15 +33,16 @@ const ContactForm = () => {
       className="mt-14"
       method="POST"
       data-netlify="true"
-      netlify-honeypot="bot-field"
+      data-netlify-honeypot="bot-field"
       data-netlify-recaptcha="true"
+      name="contact"
     >
       <input type="hidden" name="form-name" value="contact" />
 
       {/* Honeypot field */}
       <div style={{ display: 'none' }}>
         <label>
-          Dont fill this out if you are human:
+          Don't fill this out if you are human:
           <input name="bot-field" />
         </label>
       </div>
