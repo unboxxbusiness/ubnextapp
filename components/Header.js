@@ -42,7 +42,7 @@ function Nav() {
                     onClick={closeMenu} // Close menu when clicked
                     className="text-gray-800 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
                   >
-                    🔥Booster 
+                  🔥Social Media Management
                   </Link>
 
                   <Link
@@ -129,7 +129,7 @@ function Nav() {
                   onClick={closeMenu} // Close menu when clicked
                   className="text-gray-800 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium"
                 >
-                  🔥Booster
+                  🔥Social Media Management
                 </Link>
 
                 <Link
