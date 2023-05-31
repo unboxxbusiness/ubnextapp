@@ -42,7 +42,7 @@ const ContactForm = () => {
       {/* Honeypot field */}
       <div style={{ display: 'none' }}>
         <label>
-          Don't fill this out if you are human:
+          Dont fill this out if you are human:
           <input name="bot-field" />
         </label>
       </div>
