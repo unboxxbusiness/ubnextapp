@@ -31,7 +31,7 @@ const Footer = () => {
                     </li>
 
                     <li>
-                        <Link href="/contact" title="" className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> Contact Us </Link>
+                        <Link href="/newsletter" title="" className="flex text-base text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600"> newsletter Us </Link>
                     </li>
                 </ul>
             </div>
@@ -61,8 +61,8 @@ const Footer = () => {
             <div className="col-span-2 md:col-span-1 lg:col-span-2 lg:pl-8">
                 <p className="text-sm font-semibold tracking-widest text-gray-400 uppercase">Get the Latest Videos Newsletter Directly in your inbox</p>
 
-                <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" action="/success">
-  <input type="hidden" name="form-name" value="contact" />
+                <form name="newsletter" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" action="/success">
+  <input type="hidden" name="form-name" value="newsletter" />
   
   <div className="hidden">
     <label>Dont fill this out if you are human: <input name="bot-field" /></label>
