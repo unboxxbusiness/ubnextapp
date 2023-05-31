@@ -349,7 +349,7 @@ const Plans = () => {
 
             <div className="px-2 py-2">
                 <span className="text-sm font-medium text-blue-600"> Ultimate </span>
-                <p className="mt-2 text-xl font-bold">$550</p>
+                <p className="mt-2 text-xl font-bold">$500</p>
                 <span className="mt-1 text-sm font-normal text-gray-500"> One Time </span>
             </div>
         </div>
