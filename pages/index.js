@@ -33,8 +33,8 @@ return (
       <div className="relative px-4 mx-auto max-w-7xl sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 gap-y-4 lg:items-center lg:grid-cols-2 xl:grid-cols-2">
               <div className="text-center xl:col-span-1 lg:text-left md:px-16 lg:px-0 xl:pr-20">
-                  <h1 className="text-4xl font-bold leading-tight text-gray-900 sm:text-5xl sm:leading-tight lg:text-5xl lg:leading-tight font-pj">Supercharge speed, security—beyond Wordpress!</h1>
-                  <p className="mt-2 text-lg text-gray-600 sm:mt-6 font-inter">Real estate websites revamped! Switch from Wordpress to our supercharged static site. Lightning-fast, rock-solid security. FREE hosting.</p>
+                  <h1 className="text-4xl font-bold leading-tight text-gray-900 sm:text-5xl sm:leading-tight lg:text-5xl lg:leading-tight font-pj">Next-Level Real Estate Websites: Blazing Fast, Secure, FREE Hosting</h1>
+                  <p className="mt-2 text-lg text-gray-600 sm:mt-6 font-inter">Experience Unmatched Performance, Ironclad Security, and Cost Savings with our Next-Level Websites</p>
 
                   <Link href="/pricing" title="" className="inline-flex px-8 py-4 mt-8 text-lg font-bold text-white transition-all duration-200 bg-gray-900 border border-transparent rounded sm:mt-10 font-pj hover:bg-gray-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900" role="button">
                   Get Started Now!
@@ -70,8 +70,8 @@ return (
                       </div>
 
                       <blockquote className="mt-6">
-                          <p className="text-lg font-bold text-gray-900 font-pj">Unbelievable Speed Boost!</p>
-                          <p className="mt-3 text-base leading-7 text-gray-600 font-inter">I cant believe the difference it made when I switched from Wordpress to the supercharged static site. My website now loads in a blink of an eye, providing an exceptional user experience for my clients</p>
+                          <p className="text-lg font-bold text-gray-900 font-pj">Transformed My Real Estate Business with Cutting-Edge Websites</p>
+                          <p className="mt-3 text-base leading-7 text-gray-600 font-inter">Working with the dedicated support team at Unboxx Business has been a game-changer for my real estate business. Their expertise in creating cutting-edge websites has completely transformed my online presence. From the initial consultation to the final launch, their support and guidance were exceptional</p>
                       </blockquote>
 
                       <div className="flex items-center justify-center mt-3 lg:justify-start">
@@ -82,7 +82,7 @@ return (
               </div>
 
               <div className="xl:col-span-1">
-                  <Image className="w-full mx-auto" src="/images/banner.png" alt="" width={1080} height={1080}/>
+                  <Image className="w-full mx-auto" src="/images/build.png" alt="" width={1080} height={1080}/>
               </div>
           </div>
       </div>

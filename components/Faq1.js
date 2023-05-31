@@ -22,14 +22,10 @@ const Faq1 = () => {
     
             <div>
               <h3 className="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
-               Why use Unboxx Business Jamstack sites?
+              Why is JAMstack the best solution for real estate websites?
               </h3>
               <p className="mt-1 text-gray-500">
-              Just like you, we started with Wordpress too. We loved its user-friendly interface and convenience for non-tech individuals.<br />
-
-              However, the constant juggling of updates between Wordpress versions, plugins, and themes soon became a pain. A simple update could break functionality or create compatibility issues. Neglecting updates posed security risks and potential downtime, resulting in revenue loss and damaged trust. Maintaining numerous plugins also led to sluggish page loads, demanding constant optimization efforts. The never-ending cycle of maintenance diverted precious time and focus from your business. Outsourcing maintenance is an option, but it can be costly.
-              
-              <br /> Thats when we discovered JAMstack. Say goodbye to maintenance worries and slow speeds. Join us and experience the freedom it brings.
+              AMstack offers numerous advantages, including lightning-fast speed, enhanced security, scalability, and simplified maintenance. By leveraging the power of pre-built static websites, global CDNs, and serverless functions, JAMstack delivers exceptional performance and a seamless user experience.
               </p>
             </div>
           </div>
@@ -44,24 +40,13 @@ const Faq1 = () => {
     
             <div>
               <h3 className="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
-              Unboxx Business Sites is great for...
+              How do you offer free hosting for websites?
               </h3>
               
-              <ul>
-              <li className="list-disc">Have a Wordpress website and is tired of the speed and security issues.</li>
-              <li className="list-disc">Dont have a huge budget to hire a web development firm to create a website.</li>
-              <li className="list-disc">Dont have recurring budget for web hosting.</li>
-              <li className="list-disc">Need a simple, responsive, one-page website for informational purpose, aka a business card website.</li>
-              <li className="list-disc">Already have the custom domain, web content and assets (like images, logos) ready to be uploaded.</li>
-              <li className="list-disc">Need an online presence to get leads.</li>
-              <li className="list-disc">Dont need to perform complex transactions or workflows.</li>
-              <li className="list-disc">Dont need to update the web content regularly, if at all.</li>
-              <li className="list-disc">Want a done-for-you kind of service, and dont want to DIY and waste time learning another new website builder or CMS.</li>
-              <li className="list-disc">Just want to set and forget, and focus on the business instead of worrying about the website.</li>
-              <li className="list-disc">Want a fast and secure website built on modern web technologies that can handle huge traffic.</li>
-              <li className="list-disc">Dont need regular maintenance, or prefer no technical support if ever.</li>
-              <li className="list-disc">Run productized/professional services such as management consulting, accounting, design, illustration, web development, software, writing, marketing, coaching, etc.</li>
-            </ul>
+              <p className="mt-1 text-gray-500">
+              
+              We provide free hosting by utilizing the Netlify free plan. Netlify is a leading hosting platform that offers robust infrastructure and reliable performance. This allows us to pass on the benefits of free hosting to our clients, reducing their expenses and making their websites more cost-effective.
+              </p>
             
            
             </div>
@@ -77,20 +62,12 @@ const Faq1 = () => {
     
             <div>
               <h3 className="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
-              Unboxx Business Jamstack Sites is not suitable for
+              How will your social media package help increase online presence?
               </h3>
            
-              <ul>
-  <li className="list-disc">Complex/dynamic websites with multiple pages and workflows.</li>
-  <li className="list-disc">Custom development of website features like shopping cart or payment page.</li>
-  <li className="list-disc">Ecommerce websites, blogs, web apps, events, or anything that requires accounts for your users.</li>
-  <li className="list-disc">If you dont have ready content, copy and images for your websites. We dont do that kind of (graphic) design.</li>
-  <li className="list-disc">If you need specific design or copywriting services that drive better conversion or UX.</li>
-  <li className="list-disc">Regular content updates, posting of blog articles or social media posts.</li>
-  <li className="list-disc">Regular maintenance, technical support or further development of new features.</li>
-  <li className="list-disc">If you need a website within hours or over a weekend.</li>
-</ul>
-
+              <p className="mt-1 text-gray-500">
+              Our social media package is designed to amplify your real estate businesss online presence. We create and manage engaging social media campaigns, develop content strategies, and leverage targeted advertising to reach a wider audience. This helps increase brand visibility, generate leads, and drive more traffic to your website.
+              </p>
              
             </div>
           </div>
@@ -105,10 +82,10 @@ const Faq1 = () => {
     
             <div>
               <h3 className="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
-              What currency are the prices based on?
+              Can you deliver websites in just one day?
               </h3>
               <p className="mt-1 text-gray-500">
-              All prices stated are in US dollars.
+              Yes, we offer a one-day delivery solution for clients who require a quick turnaround. This option is ideal for those who need a simple yet effective online presence in a short time frame. Contact us to discuss your requirements and see if the one-day delivery option is suitable for your project.
               </p>
             </div>
           </div>
@@ -123,15 +100,92 @@ const Faq1 = () => {
     
             <div>
               <h3 className="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
-              How secure is your payment gateway?
+              Can I check demo sites to see what I will get?
               </h3>
               <p className="mt-1 text-gray-500">
-              Our payment gateway, powered by PayPal, ensures top-notch security for your transactions. Rest assured that your payment information is protected with advanced encryption and industry-standard security measures.
+              Yes, we provide demo sites for you to explore and get a firsthand experience of our website designs and functionalities. These demos showcase the features and layout options available, giving you a clear idea of what you can expect when working with us.
               </p>
             </div>
           </div>
         </div>
     
+
+        <div className="py-8 first:pt-0 last:pb-0">
+        <div className="flex gap-x-5">
+          <svg className="flex-shrink-0 mt-1 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+            <path d="M5.255 5.786a.237.237 0 0 0 .241.247h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286zm1.557 5.763c0 .533.425.927 1.01.927.609 0 1.028-.394 1.028-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94z"/>
+          </svg>
+  
+          <div>
+            <h3 className="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
+            Is SEO automatically integrated into the websites?
+            </h3>
+            <p className="mt-1 text-gray-500">
+            Yes, we prioritize SEO integration in all our website development projects. We implement SEO best practices, such as optimizing metadata, heading structure, and website performance, to help improve search engine rankings and increase organic visibility for your real estate business.
+            </p>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div className="py-8 first:pt-0 last:pb-0">
+          <div className="flex gap-x-5">
+            <svg className="flex-shrink-0 mt-1 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+              <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+              <path d="M5.255 5.786a.237.237 0 0 0 .241.247h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286zm1.557 5.763c0 .533.425.927 1.01.927.609 0 1.028-.394 1.028-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94z"/>
+            </svg>
+    
+            <div>
+              <h3 className="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
+              Can I edit the website myself using a content management system (CMS)?
+              </h3>
+              <p className="mt-1 text-gray-500">
+              Our Ultimate plan offers the option to integrate a content management system (CMS), allowing you to make edits and updates to your website content. This empowers you to manage your listings, images, and other website elements without relying on external assistance.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div className="py-8 first:pt-0 last:pb-0">
+        <div className="flex gap-x-5">
+          <svg className="flex-shrink-0 mt-1 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+            <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+            <path d="M5.255 5.786a.237.237 0 0 0 .241.247h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286zm1.557 5.763c0 .533.425.927 1.01.927.609 0 1.028-.394 1.028-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94z"/>
+          </svg>
+  
+          <div>
+            <h3 className="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
+            Is maintenance required for JAMstack sites?
+            </h3>
+            <p className="mt-1 text-gray-500">
+            No, JAMstack sites require minimal maintenance. The static nature of JAMstack websites eliminates the need for constant updates and patching. This allows you to focus more on growing your real estate business instead of spending time on website maintenance.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="py-8 first:pt-0 last:pb-0">
+      <div className="flex gap-x-5">
+        <svg className="flex-shrink-0 mt-1 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+          <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+          <path d="M5.255 5.786a.237.237 0 0 0 .241.247h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286zm1.557 5.763c0 .533.425.927 1.01.927.609 0 1.028-.394 1.028-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94z"/>
+        </svg>
+
+        <div>
+          <h3 className="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
+          What is the uptime guarantee for your websites?
+          </h3>
+          <p className="mt-1 text-gray-500">
+          We guarantee an uptime of 99.98% for our websites. We utilize reliable hosting infrastructure and implement robust monitoring systems to ensure maximum uptime and minimal downtime for your real estate website.
+          </p>
+        </div>
+      </div>
+    </div>
+
+
+
         <div className="py-8 first:pt-0 last:pb-0">
           <div className="flex gap-x-5">
             <svg className="flex-shrink-0 mt-1 w-6 h-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
@@ -141,11 +195,10 @@ const Faq1 = () => {
     
             <div>
               <h3 className="md:text-lg font-semibold text-gray-800 dark:text-gray-200">
-              How do i contact you if the site goes down?
+              How can I contact you for inquiries or support?
               </h3>
               <p className="mt-1 text-gray-500">
-              While its highly unlikely, if you have any concerns or questions, feel free to reach out to us via the Contact section. Please note that as we utilize the free tier of Netlify for web hosting, there is no contractually binding uptime guarantee. 
-              <br />However, historical uptimes have been around 99.98%. The same applies to Github.
+              You can easily contact us through our Contact Us page or by clicking on the Get Started Now button. Fill out the contact form with your details and any specific inquiries you may have. Our team will respond promptly to assist you.
               </p>
             </div>
           </div>
