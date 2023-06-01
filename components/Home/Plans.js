@@ -50,9 +50,9 @@ const Plans = () => {
 
                         <td className="px-4 py-4 text-center border-b border-gray-200">01</td>
 
-                        <td className="px-4 py-4 text-center border-b border-gray-200">08</td>
+                        <td className="px-4 py-4 text-center border-b border-gray-200">04</td>
 
-                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">Multiple Pages</td>
+                        <td className="px-4 py-4 text-center text-white bg-gray-900 border-b border-white/20">08</td>
 
                         <td className="px-4 py-4 text-center border-b border-gray-200">Multiple Pages</td>
                     </tr>
@@ -361,9 +361,9 @@ const Plans = () => {
         <div className="grid grid-cols-4 text-center divide-x divide-gray-200">
             <div className="px-2 py-2">01</div>
 
-            <div className="px-2 py-2">08</div>
+            <div className="px-2 py-2">04</div>
 
-            <div className="px-2 py-2">Multiple Pages</div>
+            <div className="px-2 py-2">08</div>
 
             <div className="px-2 py-2">Multiple Pages</div>
         </div>
